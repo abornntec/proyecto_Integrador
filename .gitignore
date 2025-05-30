@@ -172,6 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+#DS_store
+**/.DS_Store
 
 chroma_db      
 chroma_db2      
